@@ -1,0 +1,11 @@
+Prisma Cloud
+AWS Security Hub 
+Azure Security Center
+Trend Micro Deep Security
+VMware Carbon Black App Control
+Illumio Core
+Sophos Central
+Microsoft Defender for Cloud
+Sysdig Secure
+CloudGuard Network Security
+Orca Security
